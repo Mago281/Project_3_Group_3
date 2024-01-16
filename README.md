@@ -29,6 +29,11 @@ https://raw.githubusercontent.com/googletrends/data/master/20220404_environmenta
 
 <img src="https://github.com/Mago281/Project_3_Group_3/assets/131424690/16d10f81-7ab6-4426-aa99-d3efaf5921e4" width="300" height="200">
 
+![image](https://github.com/Mago281/Project_3_Group_3/assets/131424690/9220a44f-6883-45b5-9413-9055fe072066)
+
+
+
+
 
 
 
