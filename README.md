@@ -17,7 +17,7 @@ This project aims to analyse and visualise Google Trends data related to natural
   -  Data-driven insights for decision-making.
   -  Potential to identify emerging trends.
 
-<img src="https://github.com/Mago281/Project_3_Group_3/assets/131424690/3fcf3ea2-d444-453b-bf02-a6513ab078f8" width="300" height="200">  
+ <img src="https://github.com/Mago281/Project_3_Group_3/assets/131424690/3fcf3ea2-d444-453b-bf02-a6513ab078f8" width="300" height="200">  
 
 
 Selected data from:	
@@ -33,12 +33,15 @@ https://raw.githubusercontent.com/googletrends/data/master/20220404_environmenta
 
 
 <img src="https://github.com/Mago281/Project_3_Group_3/assets/131424690/9704a175-7153-4f21-b525-16e54b0e67e0" width="500" height="200">  
-.  
-.  
+ 
 
-<img src="https://github.com/Mago281/Project_3_Group_3/assets/131424690/1c068375-d8f4-4f13-b04a-fce5a889bec4" width="500" height="200">  
+ <img src="https://github.com/Mago281/Project_3_Group_3/assets/131424690/1c068375-d8f4-4f13-b04a-fce5a889bec4" width="500" height="200">  
 
 
+ <img src="https://github.com/Mago281/Project_3_Group_3/assets/131424690/3ed434f5-99ed-40f3-9c3a-05aa3e6a5159" width="500" height="200">  
+
+
+ <img src="https://github.com/Mago281/Project_3_Group_3/assets/131424690/f2f3a333-da55-4aa0-8eda-1e0374e6d8aa" width="500" height="200"> 
  
 
 
