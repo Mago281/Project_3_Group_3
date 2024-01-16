@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/googletrends/data/master/20220404_environmenta
 ![image](https://github.com/Mago281/Project_3_Group_3/assets/131424690/9220a44f-6883-45b5-9413-9055fe072066)  
 
 
-<img src="https://github.com/Mago281/Project_3_Group_3/assets/131424690/9704a175-7153-4f21-b525-16e54b0e67e0" width="500" height="200">  
+<img src="https://github.com/Mago281/Project_3_Group_3/assets/131424690/9704a175-7153-4f21-b525-16e54b0e67e0" width="500" height="300">  
 
 
 
