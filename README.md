@@ -17,7 +17,10 @@ This project aims to analyse and visualise Google Trends data related to natural
   -  Data-driven insights for decision-making.
   -  Potential to identify emerging trends.
 
-![image](https://github.com/Mago281/Project_3_Group_3/assets/131424690/3fcf3ea2-d444-453b-bf02-a6513ab078f8)
+<img src="https://github.com/Mago281/Project_3_Group_3/assets/131424690/3fcf3ea2-d444-453b-bf02-a6513ab078f8" width="300" height="80">
+
+<img src="https://github.com/EvaB5050/Diabetes-Prediction-Analysis/assets/131424690/e2b3da85-73dd-45a6-ad35-d1972a11b0b1" width="300" height="80">
+
 
 
 Selected data from:	
