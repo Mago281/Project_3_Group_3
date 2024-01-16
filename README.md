@@ -17,7 +17,7 @@ This project aims to analyse and visualise Google Trends data related to natural
   -  Data-driven insights for decision-making.
   -  Potential to identify emerging trends.
 
-    ![image](https://github.com/Mago281/Project_3_Group_3/assets/131424690/afb03a36-08d9-4500-905c-c35f481c4255)
+![image](https://github.com/Mago281/Project_3_Group_3/assets/131424690/3fcf3ea2-d444-453b-bf02-a6513ab078f8)
 
 
 Selected data from:	
