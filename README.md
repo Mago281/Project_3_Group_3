@@ -3,7 +3,8 @@
  *Telling a story using data visualizations*
 
 
-## Project Topic:    Data Analysis of Natural Disasters and Environmental Issues (2020-2022) with Dashboard Implementation
+## Project Topic:    
+Data Analysis of Natural Disasters and Environmental Issues (2020-2022) with Dashboard Implementation
 --------------------------------------------------------------------------------------------------------------------------
 
 ### Team members:    *Dusko, Gurpreet Singh, Bibek Giri & Magdalene Singh*
