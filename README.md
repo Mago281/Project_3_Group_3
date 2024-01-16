@@ -5,11 +5,11 @@
 1. Our visualisation includes a Python Flask-powered API, HTML/CSS, JavaScript, and at least one
 database (SQL, MongoDB, SQLite, etc.) and falls into the following three tracks:
 
- - A combination of web scraping and Leaflet or Plotly
+    - A combination of web scraping and Leaflet or Plotly
    
- - A dashboard page with multiple charts that update from the same data
+    - A dashboard page with multiple charts that update from the same data
    
- - A server that performs multiple manipulations on data in a database prior to visualisation (must be approved)
+    - A server that performs multiple manipulations on data in a database prior to visualisation (must be approved)
 
    
 2. Your project should include at least one JS library that we did not cover.
