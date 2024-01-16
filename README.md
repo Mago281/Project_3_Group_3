@@ -19,7 +19,8 @@ This project aims to analyse and visualise Google Trends data related to natural
 
 <img src="https://github.com/Mago281/Project_3_Group_3/assets/131424690/3fcf3ea2-d444-453b-bf02-a6513ab078f8" width="300" height="200">
 
-.
+
+
 Selected data from:	
 Google Trends: https://googletrends.github.io/data/
 
