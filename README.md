@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/googletrends/data/master/20220404_environmenta
  .  
  .  
  
-   <img src="https://github.com/Mago281/Project_3_Group_3/assets/131424690/3ed434f5-99ed-40f3-9c3a-05aa3e6a5159" width="300" height="130">  ..
+   <img src="https://github.com/Mago281/Project_3_Group_3/assets/131424690/3ed434f5-99ed-40f3-9c3a-05aa3e6a5159" width="250" height="120">  ..
  .  
  .  
  
