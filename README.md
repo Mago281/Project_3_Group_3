@@ -16,6 +16,20 @@ This project aims to analyse and visualise Google Trends data related to natural
   -  Data-driven insights for decision-making.
   -  Potential to identify emerging trends.
 
-  ![image](https://github.com/Mago281/Project_3_Group_3/assets/131424690/b4085754-23e5-4413-a86b-2d9b1c28afaa)
+    ![image](https://github.com/Mago281/Project_3_Group_3/assets/131424690/b4085754-23e5-4413-a86b-2d9b1c28afaa)
+
+
+Selected data from:	
+Google Trends: https://googletrends.github.io/data/
+
+Raw data download csv file from: 
+https://raw.githubusercontent.com/googletrends/data/master/20220404_environmental_issues_country_timeline.csv
+
+![image](https://github.com/Mago281/Project_3_Group_3/assets/131424690/16d10f81-7ab6-4426-aa99-d3efaf5921e4)
+
+
+
+
+
 
  
