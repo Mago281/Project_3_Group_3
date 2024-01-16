@@ -2,23 +2,19 @@
 
  *Telling a story using data visualizations*
 
-1. Our visualisation includes a Python Flask-powered API, HTML/CSS, JavaScript, and at least one
-database (SQL, MongoDB, SQLite, etc.) and falls into the following three tracks:
 
-    - A combination of web scraping and Leaflet or Plotly
-   
-    - A dashboard page with multiple charts that update from the same data
-   
-    - A server that performs multiple manipulations on data in a database prior to visualisation (must be approved)
+## Project Topic:    Data Analysis of Natural Disasters and Environmental Issues (2020-2022) with Dashboard Implementation
+--------------------------------------------------------------------------------------------------------------------------
 
-   
-2. Your project should include at least one JS library that we did not cover.
-  
-3. Your project must be powered by a dataset with at least 100 records.
-  
-4. Your project must include some level of user-driven interaction (e.g., menus, dropdowns, textboxes).
-
-5. Your final visualisation should ideally include at least three views.
+### Team members:    *Dusko, Gurpreet Singh, Bibek Giri & Magdalene Singh*
 
 
-For this project, you can focus your efforts within a specific industry, as detailed in the following examples. 
+## Objective:
+
+This project aims to analyse and visualise Google Trends data related to natural disasters and environmental issues for a 3-year period from 2020 to 2022 and to create an interactive dashboard for insights with an index trend score above 70 to ensure data relevance for:
+  -  An enhanced understanding of global and regional interests.
+  -  Data-driven insights for decision-making.
+  -  Potential to identify emerging trends.
+![image](https://github.com/Mago281/Project_3_Group_3/assets/131424690/af58da34-cff6-4f2b-b11a-790674c3bc39)
+
+ 
